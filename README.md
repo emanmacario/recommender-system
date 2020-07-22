@@ -1,6 +1,7 @@
 # Recommender System Research
-## Papers
+## Papers on User Similarity Measure
 1. https://pdfs.semanticscholar.org/943a/e455fafc3d36ae4ce68f1a60ae4f85623e2a.pdf
+2. https://ieeexplore.ieee.org/document/8123927
 
 
 ## Articles
