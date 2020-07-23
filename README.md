@@ -13,3 +13,8 @@
 Memory-based
 
 3. https://en.wikipedia.org/wiki/Collaborative_filtering
+
+
+## Miscellaneous
+4. https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/
+5. https://www.youtube.com/watch?v=8idr1WZ1A7Q
